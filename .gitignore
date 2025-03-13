@@ -1,0 +1,12 @@
+# Ignore model files
+ids_model.pkl
+scaler.pkl
+
+# Ignore dataset files
+KDDTrain+.txt
+DDOS.txt
+Neptune attack.txt
+PortScan(Satan).txt
+
+# Ignore plot images
+*.png
